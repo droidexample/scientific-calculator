@@ -1,0 +1,22 @@
+
+	Group-Leader and Project generator :
+	------------------------------------
+
+	Name:			Id
+
+	1 Ramananda Sarkar	12132203049
+
+	Other Member of Group :
+	-----------------------
+
+	2. Parimal Kumar dev	12132203027
+	
+	3. Dolar Sharma		12132203017
+
+	4. Md.Asaduzzaman 	12132203020
+
+	5. Md.Zuel Ali		12132203048
+
+	6. Abdur Rahim 		12132203037
+
+	
